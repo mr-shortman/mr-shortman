@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about GUI Design, Web Development and Javascript Frameworks.\
 💬 &nbsp;Feel free to reach out to me for Web Designs, Programming assignments or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at kurzmannpablo@gmail.com! I'll try to respond as soon as I can.\
-🎨 &nbsp;Please have a look at my [Codepen](https://codepen.io/realpablit0) for some more designs I did. I'm open to feedback and suggestions!
+🎨 &nbsp;Please have a look at my [Portfolio](https://pablo-portfolio-lake.vercel.app/) for some projects I did. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
